@@ -7,3 +7,5 @@ PA-API5のSDKはここからダウンロードする。
 https://webservices.amazon.com/paapi5/documentation/quick-start/using-sdk.html
 
 あとはpochipochi5.php内に楽天アフィリエイトやAmazonアソシエイトのキーやらを入れて、アクセスし、ブックマークレットを設定する。
+実際に動いている様子は、こちらから確認できます。
+https://jun3010.me/pochipochi5.php
